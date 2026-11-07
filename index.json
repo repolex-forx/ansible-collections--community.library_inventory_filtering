@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.library_inventory_filtering",
+  "versions": [
+    {
+      "commit": "90cd245b3acbab4089041f36c5e83dd8081eae4e",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:42:11.285171+00:00"
+    }
+  ]
+}
