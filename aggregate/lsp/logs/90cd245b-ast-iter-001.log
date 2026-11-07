@@ -1,0 +1,7 @@
+[2026-11-07T17:40:47Z] === AST ITERATION 1 START | repo=ansible-collections/community.library_inventory_filtering sha=90cd245b ===
+[2026-11-07T17:40:47Z] [iter=1] PHASE START: ast repo=ansible-collections/community.library_inventory_filtering sha=90cd245b
+[2026-11-07T17:40:47Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T17:40:48Z] [iter=1] AST chunks built count=1 triples=10878
+[2026-11-07T17:40:48Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/90cd245b3acbab4089041f36c5e83dd8081eae4e/.complete
+[2026-11-07T17:40:48Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-11-07T17:40:48Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
